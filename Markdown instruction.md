@@ -28,6 +28,8 @@ To add an image, print the following:
 ![piggy](guinea_pig.jpeg)
 
 ## Links
+To add a link frame it with less/more signs (<>). For example:
+<https://gist.github.com/Jekins/2bf2d0638163f1294637>
 ## Tables
 ## Citation
 
