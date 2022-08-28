@@ -53,3 +53,4 @@ To add a link frame it with less/more signs (<>). For example:
 + Print in terminal "git branch -M (main branch name)"
 + Print in terminal "push -u origin main" (verification will be needed, follow the git instractions)
 
+**3. To create a pull request:**
