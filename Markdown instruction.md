@@ -35,3 +35,21 @@ To add a link frame it with less/more signs (<>). For example:
 ## Tables
 ## Citation
 
+# Work with distant repositories
+
+# Work with remote repositories
+
+**1. To download a repository from GitHub**
++ Create an account on GitHub
++ Open VSCode
++ Print command "git clone (repository address)"
++ Change dirrectory to the current
++ Start working with the repository. Preferably in a new branch.
+
+**2. To upload your repository to GitHub:**
++ Click on "New repository"
++ Print "Name of the repository"
++ Print in terminal "git remote add (aut generated address)
++ Print in terminal "git branch -M (main branch name)"
++ Print in terminal "push -u origin main" (verification will be needed, follow the git instractions)
+
