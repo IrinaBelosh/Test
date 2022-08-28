@@ -47,7 +47,7 @@ To add a link frame it with less/more signs (<>). For example:
 + Start working with the repository. Preferably in a new branch.
 
 **2. To upload your repository to GitHub:**
-+ Click on "New repository"
++ Click on "New reqpository"
 + Print "Name of the repository"
 + Print in terminal "git remote add (aut generated address)
 + Print in terminal "git branch -M (main branch name)"
